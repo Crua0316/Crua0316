@@ -22,6 +22,14 @@
 </div>
 <br>
 
+<p align="center">
+ 🤝🏻 &nbsp;Connect with Me
+
+<a href="https://www.linkedin.com/in/cristian-rua-691a641ab/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50"/></a>
+<a href="https://www.instagram.com/cristian__rua/?hl=es-la"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png" width="50"/></a>
+<a href="https://twitter.com/Criss4ngel"><img src="https://e1.pngegg.com/pngimages/18/689/png-clipart-ios-7-icons-updated-twitter-twitter-icon-thumbnail.png" width="50"></a>
+</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div style="display:flex; justify-content:space-around">
@@ -29,11 +37,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crua0316&theme=tokyonight&langs_count=8&layout=compact" height="180px">
 </div>
 </br>
-
- 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/cristian-rua-691a641ab/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50"/></a>
-<a href="https://www.instagram.com/cristian__rua/?hl=es-la"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png" width="50"/></a>
-<a href="https://twitter.com/Criss4ngel"><img src="https://e1.pngegg.com/pngimages/18/689/png-clipart-ios-7-icons-updated-twitter-twitter-icon-thumbnail.png" width="50"></a>
-</p>
