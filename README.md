@@ -7,7 +7,7 @@
 
 <br>
 <div style="display:flex; justify-content:space-around">
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" align="right"/>
 
 
 ### 🛠 &nbsp;Tech Stack 
