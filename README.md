@@ -23,7 +23,7 @@
 <br>
 
 
- 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/cristian-rua-691a641ab/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50"/></a>
