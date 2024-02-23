@@ -2,13 +2,6 @@
     <img src="./imagenes/Cristian Rua.gif">
 </div>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-
-<br>
-<div style="display:flex; justify-content:space-around">
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 
 ### 🛠 &nbsp;Tech Stack 
 
@@ -22,14 +15,6 @@
 </div>
 <br>
 
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/cristian-rua-691a641ab/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50"/></a>
-<a href="https://www.instagram.com/cristian__rua/?hl=es-la"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-233-896451.png" width="50"/></a>
-<a href="https://twitter.com/Criss4ngel"><img src="https://e1.pngegg.com/pngimages/18/689/png-clipart-ios-7-icons-updated-twitter-twitter-icon-thumbnail.png" width="50"></a>
-</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
